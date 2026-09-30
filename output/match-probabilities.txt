@@ -1,0 +1,39 @@
+MATCH PROBABILITY ANALYSIS
+==========================
+
+Lions vs Tigers
+Home win: 53.93 % (odds 1.85)
+Draw: 28.12 % (odds 3.56)
+Away win: 17.95 % (odds 5.57)
+Most likely result: Home win
+----------------------------------------
+Eagles vs Bears
+Home win: 26.64 % (odds 3.75)
+Draw: 29.44 % (odds 3.40)
+Away win: 43.92 % (odds 2.28)
+Most likely result: Away win
+----------------------------------------
+Sharks vs Wolves
+Home win: 79.67 % (odds 1.26)
+Draw: 16.74 % (odds 5.97)
+Away win: 3.59 % (odds 27.86)
+Most likely result: Home win
+----------------------------------------
+Hawks vs Lions
+Home win: 28.99 % (odds 3.45)
+Draw: 31.89 % (odds 3.14)
+Away win: 39.13 % (odds 2.56)
+Most likely result: Away win
+----------------------------------------
+Bears vs Sharks
+Home win: 15.83 % (odds 6.32)
+Draw: 26.10 % (odds 3.83)
+Away win: 58.08 % (odds 1.72)
+Most likely result: Away win
+----------------------------------------
+Wolves vs Eagles
+Home win: 32.73 % (odds 3.06)
+Draw: 31.10 % (odds 3.22)
+Away win: 36.17 % (odds 2.76)
+Most likely result: Away win
+----------------------------------------
